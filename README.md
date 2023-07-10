@@ -1,6 +1,10 @@
 # RapidCD
 Effortless Linux Directory Navigation: Introducing RapidCD - Simplify Your File System Journeys with this simple trick !
 
+## Video Demo
+[![Demo Video](Video.mp4)](Video.mp4)
+
+
 Aliases for Easy Directory Navigation
 ====================================
 
