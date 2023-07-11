@@ -1,8 +1,9 @@
 # RapidCD
-Effortless Linux Directory Navigation: Introducing RapidCD - Simplify Your File System Journeys with this simple trick !
+Simplify Your Linux Directory Navigation with this simple trick !
 
 ## Video Demo
-[![Demo Video](Video.mp4)](Video.mp4)
+[![Demo Video](https://youtu.be/iJ3ZA8ZRYSg)](https://youtu.be/iJ3ZA8ZRYSg)
+
 
 
 Aliases for Easy Directory Navigation
@@ -28,17 +29,17 @@ To use these aliases, follow these steps:
 -----------------
 The following aliases are available:
 
-- `0` - Go back to the previous directory you were in. Equivalent to `cd -`.
-- `1` - Go up one level in the directory hierarchy. Equivalent to `cd ..`.
-- `2` - Go up two levels in the directory hierarchy. Equivalent to `cd ../..`.
-- `3` - Go up three levels in the directory hierarchy. Equivalent to `cd ../../..`.
-- `4` - Go up four levels in the directory hierarchy. Equivalent to `cd ../../../..`.
-- `5` - Go up five levels in the directory hierarchy. Equivalent to `cd ../../../../..`.
-- `6` - Go up six levels in the directory hierarchy. Equivalent to `cd ../../../../../..`.
-- `7` - Go up seven levels in the directory hierarchy. Equivalent to `cd ../../../../../../..`.
-- `8` - Go up eight levels in the directory hierarchy. Equivalent to `cd ../../../../../../../..`.
-- `9` - Go up nine levels in the directory hierarchy. Equivalent to `cd ../../../../../../../../../..`.
-- `10` - Go up ten levels in the directory hierarchy. Equivalent to `cd ../../../../../../../../../../..`.
+- `0` - Go back to the previous directory you were in. Equivalent to `cd -`
+- `1` - Go up one level in the directory hierarchy. Equivalent to `cd ..`
+- `2` - Go up two levels in the directory hierarchy. Equivalent to `cd ../..`
+- `3` - Go up three levels in the directory hierarchy. Equivalent to `cd ../../..`
+- `4` - Go up four levels in the directory hierarchy. Equivalent to `cd ../../../..`
+- `5` - Go up five levels in the directory hierarchy. Equivalent to `cd ../../../../..`
+- `6` - Go up six levels in the directory hierarchy. Equivalent to `cd ../../../../../..`
+- `7` - Go up seven levels in the directory hierarchy. Equivalent to `cd ../../../../../../..`
+- `8` - Go up eight levels in the directory hierarchy. Equivalent to `cd ../../../../../../../..`
+- `9` - Go up nine levels in the directory hierarchy. Equivalent to `cd ../../../../../../../../../..`
+- `10` - Go up ten levels in the directory hierarchy. Equivalent to `cd ../../../../../../../../../../..`
 
 Notes
 -----
