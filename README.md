@@ -3,6 +3,10 @@ Simplify Your Linux Directory Navigation with this simple trick !
 
 ## Video Demo
 [![Demo Video](https://youtu.be/iJ3ZA8ZRYSg)](https://youtu.be/iJ3ZA8ZRYSg)
+# ok 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iJ3ZA8ZRYSg" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 
