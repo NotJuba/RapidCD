@@ -9,12 +9,11 @@ Simplify Your Linux Directory Navigation with this simple trick !
 Aliases for Easy Directory Navigation
 ====================================
 
-##Introduction
-------------
+## Introduction
 This bashrc script provides a set of aliases that simplify directory navigation in the command line. By using single-digit numbers, you can quickly move between different levels of parent directories without having to type out the full path.
 
-##Usage
------
+
+## Usage
 To use these aliases, follow these steps:
 
 1. Open your terminal.
@@ -25,7 +24,7 @@ To use these aliases, follow these steps:
 6. To make the aliases take effect, either restart your terminal or run the command `source .bashrc`.
 7. You can now use the aliases to navigate directories easily.
 
-##Available Aliases
+## Available Aliases
 -----------------
 The following aliases are available:
 
